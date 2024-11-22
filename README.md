@@ -1,6 +1,13 @@
 -->Auth 3.0 Advance Dynamic Authentication Page<--
 
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/page_1.png" alt="Image 1" width="270" height="200">
+    <img src="assets/page_2.png" alt="Image 2" width="270" height="200">
+    <img src="assets/page_3.png" alt="Image 3" width="270" height="200">
+</div>
+<br>
+
 Watch This Demonstration Video ---- :)
 https://drive.google.com/drive/folders/1ckI3FO2FsAJSFz-kzh_yT2ODJ1lcuA0A?usp=sharing
 

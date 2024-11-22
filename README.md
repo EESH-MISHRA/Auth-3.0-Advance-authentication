@@ -1,4 +1,4 @@
-                                         -->Auth 3.0 Advance Dynamic Authentication Page<--
+    -->Auth 3.0 Advance Dynamic Authentication Page<--
 
 
 Watch This Demonstration Video ---- :)
